@@ -14,10 +14,9 @@ const Account =({ navigation }) =>{
       <View style={styles.titleView}>
       <View style={styles.profileView}>
         <Image
-          source={{
-            // uri: "https://avatars1.githubusercontent.com/u/7048105?s=460&v=4",
-            // image={require('custom_pin.png')}
-          }}
+          // source={{
+          // uri: "https://avatars1.githubusercontent.com/u/7048105?s=460&v=4",
+          // }}
           style={styles.imageStyle}
         />
         <View style={{ marginLeft: 10 }}>
